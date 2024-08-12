@@ -1,0 +1,6 @@
+pandas
+matplotlib.pyplot
+japanize_matplotlib
+streamlit
+io
+random
